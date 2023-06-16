@@ -1,0 +1,12 @@
+/*Q.1: Create two integer variables length and breadth and assign values then check if they are square values or rectangle values.
+ie: if both values are equal then it's square otherwise rectangle. */
+void main() {
+  print('My------First------Assignement');
+  int length = 8 ;
+  int breath = 6;
+  if (length == breath) {
+    print('It is square');
+  }else{
+    print('It is Rectangle');
+  }
+}
